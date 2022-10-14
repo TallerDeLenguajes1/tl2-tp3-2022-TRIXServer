@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeP0sISZzs0f6w/657xg6AJWejYHyyf8TRv3GZRa758bzc9tL4CDwuuJvoy/qFna4ZiYaILPZs2RHqF3Cv9goQ==",
+  "success": true,
+  "projectFilePath": "/Users/trix/Library/Mobile Documents/com~apple~CloudDocs/facet/taller 2/tl2-tp3-2022-TRIXServer/tl2-tp3-2022-TRIXServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/trix/.nuget/packages/nlog/5.0.4/nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
