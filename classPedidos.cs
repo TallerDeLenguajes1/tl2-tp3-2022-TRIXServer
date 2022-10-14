@@ -5,6 +5,11 @@ public class Pedidos
     private Cliente clientePedido;
     private string estado;
 
+    public int Numero { get => numero; set => numero = value; }
+    public string Observaciones { get => observaciones; set => observaciones = value; }
+    public Cliente ClientePedido { get => clientePedido; set => clientePedido = value; }
+    public string Estado { get => estado; set => estado = value; }
+
     public Pedidos () 
     {
 
@@ -16,10 +21,7 @@ public class Pedidos
         this.Observaciones = _observacionesPedido;
         this.ClientePedido = _clientePedido;
         this.Estado = _estadoPedido;
+        
     }
 
-    public int Numero { get => numero; set => numero = value; }
-    public string Observaciones { get => observaciones; set => observaciones = value; }
-    public Cliente ClientePedido { get => clientePedido; set => clientePedido = value; }
-    public string Estado { get => estado; set => estado = value; }
 }
